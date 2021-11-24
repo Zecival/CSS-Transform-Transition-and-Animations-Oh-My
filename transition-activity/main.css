@@ -23,5 +23,7 @@ button {
 }
 
 button:hover {
-  background-color: cornflowerblue;
+  background-color: #6495ed;
+  color: ghostwhite;
+  transition-duration: 2s;
 }
